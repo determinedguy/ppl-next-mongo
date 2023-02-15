@@ -4,6 +4,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 <https://assignment-1-determinedguy.vercel.app>
 
+## Sonarqube Status
+
+[![Quality gate](https://sonarqube.cs.ui.ac.id/api/project_badges/quality_gate?project=determinedguy-ppl-2023_assignment-1_AYZWFEtdoB3q0Wl8w2p8)](https://sonarqube.cs.ui.ac.id/dashboard?id=determinedguy-ppl-2023_assignment-1_AYZWFEtdoB3q0Wl8w2p8)
+
 ## Getting Started
 
 First, run the development server:
