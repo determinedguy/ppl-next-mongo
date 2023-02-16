@@ -50,38 +50,28 @@ export default function Home({
         )}
 
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          This web is made by Muhammad Athallah for the first assignment of Software Engineering Project course (PPL), Even Semester 2022/2023.
         </p>
 
         <div className="grid">
-          <a href="https://nextjs.org/docs" className="card">
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+          <a href="/movies" className="card">
+            <h3>Movies &rarr;</h3>
+            <p>Find the list of top 20 movies of all time.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className="card">
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+          <a href="/top" className="card">
+            <h3>Top &rarr;</h3>
+            <p>Find the list of top 1000 movies of all time.</p>
           </a>
 
-          <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
-            className="card"
-          >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+          <a href="/api/movies" className="card">
+            <h3>Movies API &rarr;</h3>
+            <p>Access the movies API which provides the data of the movies saved in MongoDB.</p>
           </a>
 
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="card"
-          >
-            <h3>Deploy &rarr;</h3>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
+          <a href="https://gitlab.cs.ui.ac.id/determinedguy-ppl-2023/assignment-1" className="card">
+            <h3>Repository &rarr;</h3>
+            <p>Access the source code of this website at the Gitlab repository here.</p>
           </a>
         </div>
       </main>

@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@types/express": "^4.17.17",
     "mongodb": "^4.8.1",
     "next": "latest",
     "react": "^18.2.0",
