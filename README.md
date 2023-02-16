@@ -2,6 +2,8 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This website is made by Muhammad Athallah as the submission for Assignment 1 of the Software Engineering Project course in the Faculty of Computer Science, Universitas Indonesia, Even Semester 2022/2023.
+
 ## Website Link
 
 - Production: <https://assignment-1-weld.vercel.app>
