@@ -31,7 +31,7 @@ export default function Home({
   return (
     <div className="container">
       <Head>
-        <title>Create Next App</title>
+        <title>Assignment 1 | Muhammad Athallah</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
