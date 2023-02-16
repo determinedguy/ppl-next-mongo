@@ -4,8 +4,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Website Link
 
-Production: <https://assignment-1-weld.vercel.app>
-Staging: <https://assignment-1-determinedguy.vercel.app>
+- Production: <https://assignment-1-weld.vercel.app>
+- Staging: <https://assignment-1-determinedguy.vercel.app>
 
 ## Sonarqube Status
 
